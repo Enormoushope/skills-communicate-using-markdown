@@ -11,3 +11,4 @@
 ## 次の章 (H2)
 
 ここに次の章の本文を書きます。
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
